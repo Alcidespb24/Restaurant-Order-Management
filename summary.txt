@@ -1,0 +1,14 @@
+Total Orders : 1
+Total Revenue : $50.71
+Burger - Total Sales : 2
+ Total Revenue : $9.98
+Sandwich - Total Sales : 3
+ Total Revenue : $13.47
+Tenders - Total Sales : 6
+ Total Revenue : $23.94
+Fries - Total Sales : 0
+ Total Revenue : $0.00
+Cookies - Total Sales : 0
+ Total Revenue : $0.00
+Soft Drink - Total Sales : 0
+ Total Revenue : $0.00

@@ -1,0 +1,53 @@
+Order ID: 1
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 2
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 3
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 1
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 2
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 3
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 1
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 2
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 3
+Customer Name : (null)
+Total, with taxes included : $0.00
+Order ID: 1
+Customer Name : a
+1 X Burger - $4.99
+Total, with taxes included : $5.34
+Order ID: 1
+Customer Name : a
+3 X Tenders - $3.99
+Total, with taxes included : $12.81
+Order ID: 1
+Customer Name : a
+Total, with taxes included : $0.00
+Order ID: 1
+Customer Name : a
+Total, with taxes included : $0.00
+Order ID: 1
+Customer Name : a
+13 X Cookies - $1.00
+3 X Burger - $4.99
+Total, with taxes included : $29.93
+Order ID: 1
+Customer Name : 2
+4 X Tenders - $3.99
+3 X Sandwich - $4.49
+2 X Burger - $4.99
+2 X Tenders - $3.99
+Total, with taxes included : $50.71
